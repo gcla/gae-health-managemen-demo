@@ -1,4 +1,3 @@
-#Step
 
 = Introduction =
 
@@ -10,8 +9,10 @@ This is why you need both the Google App Engine Launcher and Sign in to App Engi
 
 1. Create a folder.
 
-2.  
+2. Download file from https://gae-health-managemen-demo.googlecode.com/svn/trunk/ 
 
-Uploading Your Application
+3. Uploading or setting Your Application
 
-http://code.google.com/intl/en/appengine/docs/python/gettingstarted/uploading.html
+   http://code.google.com/intl/en/appengine/docs/python/gettingstarted/uploading.html
+
+
