@@ -6,14 +6,14 @@ This is why you need both the Google App Engine Launcher and Sign in to App Engi
 
 = Prerequisites =
 
-   1. app.yaml: application name is "gae-healthcare"
-                version: 1
+1. app.yaml: application name is "gae-healthcare" and version: 1
 
-      If you want to change name of app.  Edit the app.yaml file, then change the value of the application:
+If you want to change name of app.  Edit the app.yaml file, then change the value of the application:
 
-   2. Local test example.
+2. Local test example.
        
-      If my port is 7999. Then the local domain is equal to http://localhost:7999/desk/index.html
+If my port is 7999. Then the local domain is equal to 
+                http://localhost:7999/desk/index.html
 
 = Download Details =
 
@@ -25,5 +25,3 @@ This is why you need both the Google App Engine Launcher and Sign in to App Engi
 3. Uploading or setting Your Application teaching 
 
    http://code.google.com/intl/en/appengine/docs/python/gettingstarted/uploading.html
-
-
