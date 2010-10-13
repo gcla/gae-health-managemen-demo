@@ -7,7 +7,7 @@ Upload data into the model. Update chart view.
 
 = Details =
 
-main.py 
+look for main.py file
 
 apps_binding.append(('/model/bs/(\d*)', BloodSuger))
 
@@ -22,7 +22,13 @@ apps_binding.append(('/model/bk/(\d*)/(\d*)/(\d*).(\d*)/(\d*).(\d*)', Bike))
 apps_binding.append(('/model/ru/(\d*)/(\d*)/(\d*).(\d*)/(\d*).(\d*)', Run))
 
 
-Example: port = 7999
+
+
+
+
+= Example =
+
+port = 7999
 
 If you want to updload Bloodsuger information. http://localhost:7999/model/bs/140
 
