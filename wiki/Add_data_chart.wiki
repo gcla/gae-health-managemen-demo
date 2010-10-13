@@ -22,19 +22,19 @@ apps_binding.append(('/model/bk/(\d*)/(\d*)/(\d*).(\d*)/(\d*).(\d*)', Bike))
 apps_binding.append(('/model/ru/(\d*)/(\d*)/(\d*).(\d*)/(\d*).(\d*)', Run))
 
 
-Example:
+Example: port = 7999
 
-If you want to updload Bloodsuger information. Ex: localhost:7999/model/bs/140
+If you want to updload Bloodsuger information. http://localhost:7999/model/bs/140
 
-If you want to updload Asthma information. Ex: localhost:7999/model/pf/218/2.36
+If you want to updload Asthma information. http://localhost:7999/model/pf/218/2.36
 
-If you want to updload BloodPressure information Ex: localhost:7999/model/bp/136.98.72
+If you want to updload BloodPressure information http://localhost:7999/model/bp/136.98.72
 
-If you want to updload Fometer information. Ex: localhost:7999/model/fo/36.2
+If you want to updload Fometer information. http://localhost:7999/model/fo/36.2
 
-If you want to updload Bike information Ex: localhost:7999/model/bk/5/36/74.3/22.8
+If you want to updload Bike information http://localhost:7999/model/bk/5/36/74.3/22.8
 
-If you want to updload Run information. Ex: localhost:7999/model/ru/5/36/74.3/22.8
+If you want to updload Run information. http://localhost:7999/model/ru/5/36/74.3/22.8
 
 
 And look "sucesses"
