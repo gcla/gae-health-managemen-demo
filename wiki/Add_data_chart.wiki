@@ -38,3 +38,5 @@ If you want to updload Run information. Ex: localhost:7999/model/ru/5/36/74.3/22
 
 
 And look "sucesses"
+
+Look your chart view 
