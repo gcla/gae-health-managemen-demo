@@ -6,6 +6,9 @@ This is why you need both the Google App Engine Launcher and Sign in to App Engi
 
 = Prerequisites =
 
+Environment: Windows 7 , Python2.5 
+
+
 1. app.yaml: application name is "gae-healthcare" and version: 1
 
 If you want to change name of app.  Edit the app.yaml file, then change the value of the application:
