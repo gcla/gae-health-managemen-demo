@@ -1,0 +1,11 @@
+application: kuas-test
+version: 6
+runtime: python
+api_version: 1
+
+handlers:
+- url: /desk
+  static_dir: desktop
+
+- url: /.*
+  script: main.py
