@@ -1,5 +1,5 @@
-application: kuas-test
-version: 6
+application: gae-healthcare
+version: 1
 runtime: python
 api_version: 1
 
