@@ -17,7 +17,7 @@ If my port is 7999. Then the local domain is equal to
 
 = Download Details =
 
-1. Create a folder.
+1. Create a folder and named "gae-healthcare".
 
 2. Download all files from https://gae-health-managemen-demo.googlecode.com/svn/trunk/ to your folder
 
