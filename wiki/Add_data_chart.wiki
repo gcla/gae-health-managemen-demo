@@ -26,7 +26,7 @@ Example:
 
 If you want to updload Bloodsuger information. Ex: localhost:7999/model/bs/140
 
-If you want to updload Asthma information. Ex: hlocalhost:7999/model/pf/218/2.36
+If you want to updload Asthma information. Ex: localhost:7999/model/pf/218/2.36
 
 If you want to updload BloodPressure information Ex: localhost:7999/model/bp/136.98.72
 
