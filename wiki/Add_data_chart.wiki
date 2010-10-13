@@ -10,11 +10,17 @@ Upload data into the model. Update chart view.
   main.py 
 
   apps_binding.append(('/model/bs/(\d*)', BloodSuger))
+
   apps_binding.append(('/model/pf/(\d*)/(\d*).(\d*)', Asthma))
+
   apps_binding.append(('/model/bp/(\d*)/(\d*)/(\d*)', BloodPressure))
+
   apps_binding.append(('/model/fo/(\d*).(\d*)', Fometer))
+
   apps_binding.append(('/model/bk/(\d*)/(\d*)/(\d*).(\d*)/(\d*).(\d*)', Bike))
+
   apps_binding.append(('/model/ru/(\d*)/(\d*)/(\d*).(\d*)/(\d*).(\d*)', Run))
+
 
 Example:
 
@@ -30,8 +36,3 @@ If you want to updload Bike information Ex: localhost:7999/model/bk/5/36/74.3/22
 
 If you want to updload Run information. Ex: localhost:7999/model/ru/5/36/74.3/22.8
    
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
