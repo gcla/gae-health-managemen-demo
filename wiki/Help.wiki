@@ -1,0 +1,17 @@
+#Step
+
+= Introduction =
+
+This project is composed of html ,css , extjs desktop , js and  python code.
+
+This is why you need both the Google App Engine Launcher and Sign in to App Engine using your Google account. If you do not have a Google account, you can create a Google account with an email address and password to build the application. This page will briefly explain how to setup a build environment.
+
+= Details =
+
+1. Create a folder.
+
+2.  
+
+Uploading Your Application
+
+http://code.google.com/intl/en/appengine/docs/python/gettingstarted/uploading.html
